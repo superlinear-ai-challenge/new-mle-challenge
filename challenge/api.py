@@ -23,7 +23,7 @@ def train(file: bytes = File(...)) -> None:
 
 
 # TODO:
-#  - Create a '/genres/predict' endpoint (POST)
+#  - Create a '/ratings/predict' endpoint (POST)
 #  - Load in the previously trained model
 #  - Make predictions on the received data 
 #  - Return your predictions as a dictionary of the following format:

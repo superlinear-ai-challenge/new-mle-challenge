@@ -30,7 +30,7 @@ You will be provided with 3 datasets:
 
 All the users in `df_test` are present also in `df_train`, however all the movies in `df_test` are new movies that do not appear in `df_train` (they are still present in `df_movies`).
 
-🌟	IMPORTANT🌟	you can use every feature inside `df_movies` in your model but you are REQUIRED to use at least the `overview` of the movie for which you will have to get embeddings using the transformer `distilbert-base-uncased` from the library https://huggingface.co/docs/transformers/index.
+🌟	IMPORTANT🌟	you can use any feature inside `df_movies` in your model but you are REQUIRED to use at least the `overview` of the movie for which you will have to get embeddings using the transformer `distilbert-base-uncased` from the library https://huggingface.co/docs/transformers/index.
 
 
 
