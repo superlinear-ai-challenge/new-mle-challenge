@@ -42,7 +42,7 @@ All the users in `df_test` are present also in `df_train`, however all the movie
    1. Name your repository as `{your-name}-superlinear-challenge`.
    2. Make sure the repository is `Private`.
 2. After you created the repository:
-   1. Go to `Settings > Collaborators and teams > Add people` and add `RadixChallenge` (`challenge@superlinear.eu`) with `Read` permissions so we can follow along with your progress.
+   1. Go to `Settings > Collaborators and teams > Add people` and add `SuperlinearChallenge` (`challenge@superlinear.eu`) with `Read` permissions so we can follow along with your progress.
    2. Clone the repository onto your machine.
 3. Once you have the repository local:
    1. Download the hiring challenge as a [ZIP-file](https://github.com/superlinear-ai-challenge/new-mle-challenge/archive/refs/heads/main.zip) and unpack thhis in your cloned repository.
